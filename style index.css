@@ -59,12 +59,13 @@ header a {
     }
 
 header{
-    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/00ad1ac5-822e-4b20-946b-36c40aa5fac6/d5xom8c-cc14bfac-4831-4000-b46c-b46467d80796.png/v1/fill/w_1024,h_576,q_80,strp/kirito_wallpaper___sword_art_online_by_ivanpogi_d5xom8c-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvMDBhZDFhYzUtODIyZS00YjIwLTk0NmItMzZjNDBhYTVmYWM2XC9kNXhvbThjLWNjMTRiZmFjLTQ4MzEtNDAwMC1iNDZjLWI0NjQ2N2Q4MDc5Ni5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.233dDlQZTbiqXpQsHJRXG5UvN3m6v1orlx6Hx2MUNyc);
+    background-image: url(https://cdn.discordapp.com/attachments/659765201666572298/921134577643323412/thumb-1920-632051.png);
     width: 100%;
     height: 70px;
     display: flex;
     align-items: center;
     position: fixed;
+    opacity: 0.8;
 }
 
 #logo {
@@ -105,9 +106,7 @@ header .dropdown:hover .content{
     width: 150%;
     padding: 5px 10px;
     box-sizing:content-box;
-    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/00ad1ac5-822e-4b20-946b-36c40aa5fac6/d5xom8c-cc14bfac-4831-4000-b46c-b46467d80796.png/v1/fill/w_1024,h_576,q_80,strp/kirito_wallpaper___sword_art_online_by_ivanpogi_d5xom8c-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvMDBhZDFhYzUtODIyZS00YjIwLTk0NmItMzZjNDBhYTVmYWM2XC9kNXhvbThjLWNjMTRiZmFjLTQ4MzEtNDAwMC1iNDZjLWI0NjQ2N2Q4MDc5Ni5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.233dDlQZTbiqXpQsHJRXG5UvN3m6v1orlx6Hx2MUNyc);
-    
-    
+    background-image: url(https://cdn.discordapp.com/attachments/659765201666572298/921134577643323412/thumb-1920-632051.png);
 }
 header .dropdown:hover .content a{
     color: lightskyblue;
@@ -174,7 +173,7 @@ h3{
     
 
    #présentation{
-       background-color:whitesmoke;
+       background-color:white;
        padding: 10px 0px 100px 0;
        /* espace entre le titre et le dessus  */
     }
@@ -224,7 +223,7 @@ h3{
 
     #meconnaître{
         height: 340px;
-        background-color: #f1f2f6;
+        background-color: white;
         padding: 100px 2%;
         font-family: 'Noto Serif JP', serif;
         text-align: center;
